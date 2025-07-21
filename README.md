@@ -23,6 +23,23 @@ I'm an aspiring **Full Stack Developer** with experience in modern web technolog
 I enjoy solving real problems and building useful projects, **always open to learning new tools and frameworks.**
 
 ---
+
+## 📂 Featured Projects
+
+🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with React and Express, it offers intelligent matching, OAuth login, real-time status updates, playlist search and creation via official APIs, and a modern mobile-first interface.  
+🔗 [Try it live](https://songseek.vercel.app) · [GitHub repo](https://github.com/lunagus/SongSeek)
+
+🏛️ **PuntoCultura** – Full-stack platform for managing and showcasing cultural events for the **Department of Culture of Santiago del Estero** (Argentina). Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.  
+🔗 [Visit the website](https://puntocultura.netlify.app) · [GitHub repo](https://github.com/lunagus/PuntoCultura)
+
+🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input.  
+🔗 [Play it here](https://ahorcado-pi.vercel.app) · [GitHub repo](https://github.com/lunagus/Ahorcado)
+
+✂️ **Clipper** – Minimal desktop script for trimming, encoding, and uploading videos using FFmpeg. Developed with Python and Tkinter, it includes an intuitive GUI, encoding presets, advanced trimming features, real-time progress updates, and built-in uploading to popular file sharing services.  
+🔗 [GitHub repo](https://github.com/lunagus/Clipper)
+
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -61,25 +78,6 @@ I enjoy solving real problems and building useful projects, **always open to lea
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=united-states&logoColor=white)
 
 </div>
-
----
-
-## 📂 Featured Projects
-
-🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with React and Express, it offers intelligent matching, OAuth login, real-time status updates, playlist search and creation via official APIs, and a modern mobile-first interface.  
-🔗 [Try it live](https://songseek.vercel.app) · [GitHub repo](https://github.com/lunagus/SongSeek)
-
-🏛️ **PuntoCultura** – Full-stack platform for managing and showcasing cultural events for the **Department of Culture of Santiago del Estero** (Argentina). Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.  
-🔗 [Visit the website](https://puntocultura.netlify.app) · [GitHub repo](https://github.com/lunagus/PuntoCultura)
-
-🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input.  
-🔗 [Play it here](https://ahorcado-pi.vercel.app) · [GitHub repo](https://github.com/lunagus/Ahorcado)
-
-✂️ **Clipper** – Minimal desktop script for trimming, encoding, and uploading videos using FFmpeg. Developed with Python and Tkinter, it includes an intuitive GUI, encoding presets, advanced trimming features, real-time progress updates, and built-in uploading to popular file sharing services.  
-🔗 [GitHub repo](https://github.com/lunagus/Clipper)
-
----
-
 
 ## 📈 Activity Graph
 
