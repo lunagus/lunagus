@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Agustin 👋
+# Agustin Luna
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Frontend+%7C+Backend;Building+Real-World+Solutions;Always+Learning+and+Improving&center=true&width=500&height=50&color=36BCF7&size=22&speed=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Frontend+%7C+Backend;Building+Practical+Projects;Always+Learning+and+Improving&center=true&width=500&height=50&color=36BCF7&size=22&speed=70">
 </p>
 
 </div>
@@ -20,23 +20,27 @@ I'm an aspiring **Full Stack Developer** with experience in modern web technolog
 - 🌍 **Remote Ready**: Experienced with distributed development workflows
 - 🤝 **Collaboration**: Looking to contribute to open-source repos and connecting with other devs
 
-I enjoy solving real problems and building useful projects, **always open to learning new tools and frameworks.**
+I enjoy solving real problems and building useful projects, **always open to learning new tools, languages and frameworks.**
 
 ---
 
 ## 📂 Featured Projects
 
-🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with React and Express, it offers intelligent matching, OAuth login, real-time status updates, playlist search and creation via official APIs, and a modern mobile-first interface.  
+🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with React and Express, it offers intelligent matching, OAuth login, real-time status updates, playlist search and creation via official APIs, and a modern mobile-first interface.
+
 🔗 [Try it live](https://songseek.vercel.app) · [GitHub repo](https://github.com/lunagus/SongSeek)
 
-🏛️ **PuntoCultura** – Full-stack platform for managing and showcasing cultural events for the **Department of Culture of Santiago del Estero** (Argentina). Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.  
-🔗 [Visit the website](https://puntocultura.netlify.app) · [GitHub repo](https://github.com/lunagus/PuntoCultura)
+🏛️ **PuntoCultura** – Full-stack platform for managing and showcasing cultural events for the **Department of Culture of Santiago del Estero** (Argentina). Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.
 
-🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input.  
-🔗 [Play it here](https://ahorcado-pi.vercel.app) · [GitHub repo](https://github.com/lunagus/Ahorcado)
+🔗 [Visit the website](https://puntocultura.netlify.app) · [GitHub repo](https://github.com/lunagus/PuntoCultura) · [Contributors](https://github.com/lunagus/PuntoCultura/graphs/contributors)
 
-✂️ **Clipper** – Minimal desktop script for trimming, encoding, and uploading videos using FFmpeg. Developed with Python and Tkinter, it includes an intuitive GUI, encoding presets, advanced trimming features, real-time progress updates, and built-in uploading to popular file sharing services.  
-🔗 [GitHub repo](https://github.com/lunagus/Clipper)
+🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input. 
+
+ 🔗 [Play it here](https://ahorcado-pi.vercel.app) · [GitHub repo](https://github.com/lunagus/Ahorcado)
+
+✂️ **Clipper** – Minimal desktop script for trimming, encoding, and uploading videos using FFmpeg. Developed with Python and Tkinter, it includes an intuitive GUI, encoding presets, advanced trimming features, real-time progress updates, and built-in uploading to popular file sharing services.
+
+ 🔗 [GitHub repo](https://github.com/lunagus/Clipper)
 
 ---
 
