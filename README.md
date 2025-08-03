@@ -30,9 +30,9 @@ I enjoy solving real problems and building useful projects, **always open to lea
 
 🔗 [Try it live](https://songseek.vercel.app) · [GitHub repo](https://github.com/lunagus/SongSeek)
 
-🏛️ **PuntoCultura** – Full-stack platform for managing and showcasing cultural events for the **Department of Culture of Santiago del Estero** (Argentina). Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.
+🏛️ **PuntoCultura** – Full-stack web platform for managing and showcasing events and cultural institutions for the **Santiago del Estero Department of Culture**. Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.
 
-🔗 [Visit the website](https://puntocultura.netlify.app) · [GitHub repo](https://github.com/lunagus/PuntoCultura) · [Contributors](https://github.com/lunagus/PuntoCultura/graphs/contributors)
+🔗 [Visit the website](https://puntocultura.netlify.app/eventos) · [GitHub repo](https://github.com/lunagus/PuntoCultura) · [Contributors](https://github.com/lunagus/PuntoCultura/graphs/contributors)
 
 🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input. 
 
