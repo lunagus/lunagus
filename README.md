@@ -1,14 +1,7 @@
 <div align="center">
 
 # Agustin Luna
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Frontend+%7C+Backend;Building+Practical+Projects;Always+Learning+and+Improving&center=true&width=500&height=50&color=36BCF7&size=22&speed=70">
-</p>
-
 </div>
-
----
 
 ## 🚀 About Me
 
