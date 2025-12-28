@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring **Full Stack Developer** with experience in modern web technologies and backend systems, passionate about building scalable and modular applications and APIs. Currently working on creating efficient, maintainable solutions and making meaningful open-source contributions.
+I'm an aspiring **Software Developer** with experience in modern web technologies and backend systems, passionate about building scalable and modular applications and APIs. Currently working on creating efficient, maintainable solutions and making meaningful open-source contributions.
 
 - 🔧 **Backend Focus**: RESTful APIs with Django & Node.js, database optimization
 - 🎨 **Frontend Design**: Interactive UIs with React, Next.js, and TypeScript
@@ -93,7 +93,7 @@ I enjoy solving real problems and building useful projects, **always open to lea
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-luna-68a149375/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lunagus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernanagustinluna@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lunagus)
 
