@@ -4,13 +4,12 @@
 # [Portfolio](https://agustinluna.com)
 </div>
 
-I'm an aspiring **Software Developer** with experience in modern web technologies and backend systems, passionate about building scalable and modular applications and APIs. Currently working on creating efficient, maintainable solutions and making meaningful open-source contributions.
+I'm an aspiring **Software Developer** with experience in modern web technologies and backend systems, passionate about building scalable and modular applications and APIs. Currently expanding my expertise in AWS and DevOps practices to deliver cloud-native solutions.
 
-- **Backend Focus**: RESTful APIs with Django & Node.js, database optimization
+- **Backend Focus**: RESTful APIs with Django & Node.js, database optimization and robust pipelines
 - **Frontend Design**: Interactive UIs with React and Next.js
 - **DevOps Pipeline**: Docker containerization, automated deployments
 - **Remote Ready**: Experienced working with international clients and projects
-- **Collaboration**: Looking to contribute to open-source repos and connecting with other devs
 
 I enjoy solving real problems and building useful projects, **always open to learning new tools, languages and frameworks.**
 
@@ -38,7 +37,7 @@ I enjoy solving real problems and building useful projects, **always open to lea
 
  🔗 [GitHub repo](https://github.com/lunagus/Clipper)
  
-## 📌 Connect With Me
+## Connect With Me
 
 <div align="center">
   
