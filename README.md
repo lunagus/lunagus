@@ -4,12 +4,12 @@
 # [Portfolio](https://agustinluna.com)
 </div>
 
-I'm an aspiring **Software Developer** with experience in modern web technologies and backend systems, passionate about building scalable and modular applications and APIs. Currently expanding my expertise in AWS and DevOps practices to deliver cloud-native solutions.
+I'm a **Backend Software Developer** specializing in data-intensive systems, scalable architectures, and cloud infrastructure. My daily work centers on building robust APIs, engineering advanced data pipelines, and integrating AI-driven solutions into production environments.
 
-- **Backend Focus**: RESTful APIs with Django & Node.js, database optimization and robust pipelines
-- **Frontend Design**: Interactive UIs with React and Next.js
-- **DevOps Pipeline**: Docker containerization, automated deployments
-- **Remote Ready**: Experienced working with international clients and projects
+- **Data Engineering & Pipelines**: Building advanced data acquisition pipelines to scrape, extract, normalize, and query high-volume datasets.
+- **Backend Architecture**: Developing scalable APIs, optimizing SQL schemas, integrating third-party services, and ensuring high metadata integrity.
+- **AI & Automation**: Engineering custom MCP servers, building automated workflows, and implementing NLP-based cleaning pipelines.
+- **DevOps & CI/CD**: Managing GitHub repository workflows, containerizing applications with Docker, maintaining Linux servers, and deploying continuous integration pipelines.
 
 I enjoy solving real problems and building useful projects, **always open to learning new tools, languages and frameworks.**
 
@@ -17,21 +17,21 @@ I enjoy solving real problems and building useful projects, **always open to lea
 
 ## 📂 Featured Projects
 
-🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with React and Express, it offers intelligent matching, OAuth login, real-time status updates, playlist search and creation via official APIs, and a modern mobile-first interface.
+🎶 **SongSeek** – Full-stack music migration platform for converting playlists across Spotify, YouTube Music, Deezer, Apple Music, and more. Built with a robust Node.js/Express backend in TypeScript, it orchestrates complex multi-provider OAuth 2.0 flows, utilizes custom heuristic matching engines, and streams real-time updates via SSE.
 
 🔗 [Try it live](https://songseek.vercel.app) · [GitHub repo](https://github.com/lunagus/SongSeek)
 
-🏛️ **PuntoCultura** – Full-stack web platform for managing and showcasing events and cultural institutions for the **Santiago del Estero Department of Culture**. Built with Django, vanilla JS, HTML, and CSS, it includes role-based access, JWT authentication, RESTful APIs, an admin dashboard, calendar views, advanced filtering, and SQL injection protection.
+🏛️ **PuntoCultura** – Web platform for managing events and cultural institutions for the **Santiago del Estero Department of Culture**. Backed by a normalized PostgreSQL database modeling complex event relationships, it features a comprehensive Django authentication system with JWT, granular Role-Based Access Control, and an intuitive management dashboard.
 
 🔗 [Visit the website](https://puntocultura.netlify.app/eventos) · [GitHub repo](https://github.com/lunagus/PuntoCultura) · [Contributors](https://github.com/lunagus/PuntoCultura/graphs/contributors)
 
-📃 **TuPDF** - A client-side PDF toolkit for splitting, merging, optimizing, converting, and organizing pages — all processed locally in the browser. built with Next.js, React, and TypeScript. The interface supports drag-and-drop organization, multilingual UI (8 languages), dark mode, and high-performance rendering.
+⚡ **Quickpost** – Ephemeral file and code snippet sharing platform built with a serverless architecture. Utilizes Cloudflare R2 for fast object storage with automated 24-hour expiry rules, Supabase for metadata, and Next.js for a public REST API.
+
+🔗 [Upload your files](https://qpst.cc) · [View source code](https://github.com/lunagus/quickpost)
+
+📃 **TuPDF** - A client-side PDF toolkit for splitting, merging, optimizing, converting, and organizing pages — all processed locally in the browser. Built with Next.js, React, and TypeScript. The interface supports drag-and-drop organization, multilingual UI (8 languages), dark mode, and high-performance rendering.
 
 🔗 [Explore the tools](https://tupdf.vercel.app/) · [GitHub repo](https://github.com/lunagus/TuPDF)
-
-🎮 **Ahorcado** – Modern hangman game built with Next.js, TypeScript, and TailwindCSS. It features multi-language support, dynamic word generation from the Datamuse API, difficulty settings, dark mode, responsive layout, and keyboard input. 
-
- 🔗 [Play it here](https://ahorcado-pi.vercel.app) · [GitHub repo](https://github.com/lunagus/Ahorcado)
 
 ✂️ **Clipper** – Minimal desktop script for trimming, encoding, and uploading videos using FFmpeg. Developed with Python and Tkinter, it includes an intuitive GUI, encoding presets, advanced trimming features, real-time progress updates, and built-in uploading to popular file sharing services.
 
@@ -41,7 +41,7 @@ I enjoy solving real problems and building useful projects, **always open to lea
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lunagus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lunaagustin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernanagustinluna@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lunagus)
 
